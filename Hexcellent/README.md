@@ -18,5 +18,5 @@ On peut aussi utiliser Strings ou cat mais le résultat n'est pas imédiat, il f
 et pour des fichiers plus longs, ça marchera pas.
 
 ## Flag
-flag : ritchie
+flag : ritchie \
 C'est le nom du créateur du langage C : Dennis Ritchie :D
