@@ -6,6 +6,9 @@ Les noms des variables ne sont pas explicites.
 ## Difficulté
 2/5 je dirais. Il faut comprendre le code javascript et les fonctions utilisées.
 
+## Consigne
+Trouve le nouveau mdp de l'admin qui en à marre de se faire hack, le pauvre. Le flag n'est pas au format HTN.
+
 ## Solution
 
 Dans ce challenge, on remarque qu'il y a beaucoup de fonctions, mais elles ne sont pas toutes utiles. Quand on défile jusqu'en bas on voit la fonction s() du onClick. Toutefois, le mot

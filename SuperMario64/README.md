@@ -1,11 +1,16 @@
 # Super Mario 64
 
+
+## Consigne
+Un message contient le mdp qui sauve Peach de Bowser. Le flag n'est pas au format HTN.
+
+## Solution
 Ce challenge est plutot facile. On ouvre le fichier PeachCapture.pcap avec wireshark:
 ```bash
 sudo wireshark PeachCapture.pcap
 ```
 
-## Solution
+
 Il faut remarquer que le mot *message* dans la consigne n'est pas anodin. Il faut donc chercher le mot message à l'aide des filtres:
 ```bash
 frame contains "message="

@@ -2,6 +2,9 @@
 
 Ce challenge est de type basique en forensic, mais il est déjà assez corsé si vous n'avez jamais fait de forensic avant.
 
+## Consigne
+Retrouve l'image TRÈS sensible supprimé de la clé USB, que la Ninté'ndo à perdu. Le flag n'ets pas au format HTN.
+
 ## Solution
 On télécharge le fichier nintendoUSB.gz et on le gunzip. On peut essayer diverses
 commandes tel que strings, less etc, mais on obtient pas d'informations intéressantes.

@@ -5,6 +5,9 @@ Je dis qu'il faut faire attention... mais à quoi ?
 ## Difficulté
 1,5/5 car il suffit d'une commande pour trouver le résultat.
 
+## Consigne
+Retrouvez le nom de ce lieu (en un mot de 7 lettres tout attaché minuscule). 
+
 ## Solution
 Je trouve ce chall piègeux, pour l'avoir testé sur différentes personnes. Certaines personnes se 
 mettent à faire de l'osint. Certaines personne passe à côté du exiftool qui donne littéralement le flag.

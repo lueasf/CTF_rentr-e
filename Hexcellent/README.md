@@ -2,6 +2,9 @@
 
 Dans ce challenge, on telecharge un fichier binaire dennis32.bin. Il faut alors trouver un mot de passe. Le challenge est de niveau baby/facile.
 
+## Consigne
+Trouve le mot de passe, le nom de quelqu'un, mais pas n'importe qui...(Le flag n'est pas au format HTN)
+
 ## Solution
 La solution qui donne directement la solution c'est d'utiliser hexdump pour afficher le mot de passe.   
 

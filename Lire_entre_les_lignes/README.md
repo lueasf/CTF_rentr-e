@@ -3,6 +3,9 @@
 Ce challenge est de la steganographie. Il est très simple quand on sait ou
 trouver le bon outil.
 
+## Consigne
+Retrouvez le message caché. Pour ce faire, il va falloir apprendre à lire entre les lignes...Pas au format HTN.
+
 ## Solution
 Pour ma part j'utilise :
 https://holloway.nz/steg/
