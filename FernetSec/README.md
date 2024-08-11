@@ -16,5 +16,5 @@ Soit on utilise un langage de programmation avec fernet, soit on peut utiliser u
 
 ## Flag
 ```bash
-Decoded:	HTN{mariesteinlanotgang}
+Decoded:	HTN{MarieSteinLanotGang}
 ```
